@@ -10,5 +10,25 @@
 
 ## !Визуал RainMeter. Кастомные виджеты для рабочего стола. 
 - Тут я просто создам ссылку на папку или отдельный репозитрий чем пользуюсь я
-- Вот мой пак созданный из паков котоыре мне зашли
+- Вот мой пак созданный из паков котоыре мне зашли:
+   -  
+Используемые виджеты:
+  
+![image](https://github.com/user-attachments/assets/df9e9244-5e06-4589-90c2-1488cff80d69)
+
+Мой рабочий стол:
+![image](https://github.com/user-attachments/assets/3434302e-3fc7-4aeb-83c0-1fd9b3b12c55)
+
+
+
+## EarTrumpet - приложение для управления громкостью для Windows c более удобным и современным интерфейсом 
+- минусы - нельзя менять быстро устройство ввода, поэтому всё равно придется пользоваться дефолтным приложением
+- Еще одно неудобсвто значок на панели задач такой же как у дефолтного приложения ![image](https://github.com/user-attachments/assets/c92dc901-b85a-424c-933c-5e0271319ec0)
+
+## ModernFlyouts заменят стандарное отображения музыки 
+![image](https://github.com/user-attachments/assets/293aece7-7637-42b6-8e16-8bf85cb3aa3b)
+
+## QuickLook - быстрый предпросмотр файла на компьютере при нажатии на пробел(space).
+- ![image](https://github.com/user-attachments/assets/526cbbdf-3522-4f5b-adb2-acedc0a4f501)
+- ![image](https://github.com/user-attachments/assets/f6e8ff88-cbf9-4ef4-95fd-07e3615a229e)
 
