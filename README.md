@@ -32,3 +32,12 @@
 - ![image](https://github.com/user-attachments/assets/526cbbdf-3522-4f5b-adb2-acedc0a4f501)
 - ![image](https://github.com/user-attachments/assets/f6e8ff88-cbf9-4ef4-95fd-07e3615a229e)
 
+## !Визуал [Winaero Tweaker](https://winaero.com/download-winaero-tweaker/) - множество кастомных настроек для Windows (я использовал для... *читать ниже*) 
+- стрелка ярлыка ![image](https://github.com/user-attachments/assets/0b1fb9d8-7537-42f6-95dd-7140b6c2eaf5)
+- настройка Shortcut Arrow Избавляется от стрелки у иконки ярлыка
+
+- ![image](https://github.com/user-attachments/assets/e1f2576f-a99f-4238-aa4f-f2a5103cc613)
+
+ 
+
+ 
