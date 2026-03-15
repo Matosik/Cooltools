@@ -38,6 +38,8 @@
 
 - ![image](https://github.com/user-attachments/assets/e1f2576f-a99f-4238-aa4f-f2a5103cc613)
 
+- Авто переключатель раскладки Caramba ![sitcher](https://caramba-switcher.com/). Программа меняющаая автоматически раскладку не нужно больше думать о переклчения с ENG на РУС печатай как думаешь и всё 
+
  
 
  
