@@ -38,9 +38,10 @@
 
 - ![image](https://github.com/user-attachments/assets/e1f2576f-a99f-4238-aa4f-f2a5103cc613)
 
+
 <details>
-<summary>Авто переключатель раскладки [Caramba switcher](https://caramba-switcher.com) .</summary>
-Программа меняющаая автоматически раскладку. Не нужно больше думать о переклчения с ENG на РУС печатай как думаешь и всё 
+<summary>Caramba switcher.Авто переключатель раскладки .</summary>
+[Caramba switcher](https://caramba-switcher.com) это Программа меняющаая автоматически раскладку. Не нужно больше думать о переклчения с ENG на РУС печатай как думаешь и всё 
 </details>
  
 
