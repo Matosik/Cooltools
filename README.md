@@ -40,8 +40,9 @@
 
 
 <details>
-<summary>Caramba switcher.Авто переключатель раскладки .</summary>
-[Caramba switcher](https://caramba-switcher.com) это Программа меняющаая автоматически раскладку. Не нужно больше думать о переклчения с ENG на РУС печатай как думаешь и всё 
+  <summary><a href="https://caramba-switcher.com">Caramba switcher</a> Автопереключатель раскладки.</summary>
+ Программа, которая автоматически меняет раскладку.
+  Не нужно больше думать о переключении с ENG на РУС: печатай как думаешь.
 </details>
  
 
